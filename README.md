@@ -1,3 +1,3 @@
 # Playground
 Record my inspiration and thoughts
-XXXXXXXXX
+This is just a test repository of my first github tour
